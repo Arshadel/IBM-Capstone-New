@@ -1,0 +1,6 @@
+We have data available from 2014 with various attribute helping to learning, evaluate and predict the severity of the accident. Our prediction target (Dependent) variable is based on various independent variables as below.
+AddressType
+Location
+Weather
+Road Condition
+Light Condition
