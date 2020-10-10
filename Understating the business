@@ -1,6 +1,0 @@
-This project is to predict the severity of the accident based on the data available for the city from 2014. 
-This will be help full the drivers to predict, understand the decide route to be chosen/avoid during his driving. There are various variable that is dependent on the severity of the accident. Need to understand the relation between different variables on the severity of the accident and support the drivers and traffic officials to reduce choosing accident prone routs that is defined by various variables like whether condition, route, junction, traffic, direction, road condition, location etc. 
-This model should help
-Any passengers taking various routes should be able to predict the chance of accident in the route 
-Traffic department to predict the severity of accident when an accident is reported in the given location during the time. 
-
